@@ -10,7 +10,7 @@ void operadoresAritmeticos() {
   //* +, -, -expr, *, /, ~/ y %
   int valor1 = 7;
   int valor2 = 3;
-  
+
   // ? Adicion de numeros
   num resultado = valor1 + valor2;
   print("$valor1 + $valor2 = $resultado");
